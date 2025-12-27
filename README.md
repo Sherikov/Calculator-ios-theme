@@ -7,7 +7,7 @@ A fully functional calculator web app inspired by the iconic Apple iOS design. B
 **[🔴 LIVE DEMO]( https://sherikov.github.io/Calculator-ios-theme/)**
 
 ## 📸 Preview
-
+(screenshot.png) 
 > *Clean, minimalist interface replicating the look and feel of the iPhone calculator.*
 
 ## 🚀 Features
